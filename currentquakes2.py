@@ -1,6 +1,8 @@
+#This shows that the matplotlib.pyplot equals to plt
 import matplotlib.pyplot as plt
 
 
+#This shows that the matplotlib.image is the same or equal to mpimg also t
 import matplotlib.image as mpimg
 image = mpimg.imread("long_and_lat.png")
 plt.imshow(image)
